@@ -35,3 +35,4 @@ jobs:
       with:
         name: DarkTrap-Release
         path: ./publish
+
